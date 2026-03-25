@@ -1,12 +1,12 @@
 {
   "DATA": {
     "https://us1.akirabox.com/uploads/users/Q2WVGrBgGkx7/couZuJvjdEyzeOtuXde-%5BSuperPSX%5D-Adventure.Time.Pirates.of.the.Enchiridion_CUSA11071_v1.00_%5B5.05%5D_PS4.pkg?access=wYhlHZ5sGMyRTYxR2Mjlmb1YDd0FDNqZDNuFWb": {
-      "title_id": "Cusa here",
-      "region": "region here",
+      "title_id": "CUSA0001",
+      "region": "USA",
       "name": "Adventure time",
-      "version": "version here",
-      "release": "release here",
-      "size": "size here",
-      "min_fw": "frimware here",
+      "version": "1.0",
+      "release": "2013-1-1",
+      "size": "8900000",
+      "min_fw": "9.0",
       "cover_url": "cover url here"
     },
