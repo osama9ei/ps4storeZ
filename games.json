@@ -6,7 +6,7 @@
       "name": "Game name here",
       "version": "version here",
       "release": "release here",
-      "size": size here,
+      "size": "size here",
       "min_fw": "frimware here",
       "cover_url": "cover url here"
     },
