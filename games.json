@@ -1,12 +1,12 @@
 {
   "DATA": {
-    "https://us1.akirabox.com/uploads/users/Q2WVGrBgGkx7/couZuJvjdEyzeOtuXde-%5BSuperPSX%5D-Adventure.Time.Pirates.of.the.Enchiridion_CUSA11071_v1.00_%5B5.05%5D_PS4.pkg?access=wYhlHZ5sGMyRTYxR2Mjlmb1YDd0FDNqZDNuFWb": {
-      "title_id": "CUSA0001",
+    "https://vikingfile.com/d/EMe5Ch1fej/Hollow%20Knight%20SilkSong-%5BShei%5D%20-%5B4GAMER%5D-%5BGAME%5D%20%5BPSPKG.com%5D.pkg": {
+      "title_id": "CUSA00000",
       "region": "USA",
-      "name": "Adventure time",
-      "version": "1.0",
-      "release": "2013-1-1",
-      "size": "8900000",
-      "min_fw": "9.0",
-      "cover_url": "cover url here"
-    },
+      "name": "SilkSong",
+      "version": "01.00",
+      "size": 2705000000,
+      "cover_url": "https://.png"
+    }
+  }
+}
